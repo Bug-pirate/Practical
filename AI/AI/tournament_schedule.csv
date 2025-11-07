@@ -1,0 +1,16 @@
+MatchID,Round,TeamA,TeamB,Venue,Date
+1,Round 1,CSK,SIH,Chennai,2025-09-20
+2,Round 1,MI,KKR,Mumbai,2025-09-20
+3,Round 1,RCB,GT,Bangalore,2025-09-20
+4,Round 2,CSK,KKR,Chennai,2025-09-22
+5,Round 2,SIH,GT,Mumbai,2025-09-22
+6,Round 2,MI,RCB,Bangalore,2025-09-22
+7,Round 3,CSK,GT,Chennai,2025-09-24
+8,Round 3,KKR,RCB,Mumbai,2025-09-24
+9,Round 3,SIH,MI,Bangalore,2025-09-24
+10,Round 4,CSK,RCB,Chennai,2025-09-26
+11,Round 4,GT,MI,Mumbai,2025-09-26
+12,Round 4,KKR,SIH,Bangalore,2025-09-26
+13,Round 5,CSK,MI,Chennai,2025-09-28
+14,Round 5,RCB,SIH,Mumbai,2025-09-28
+15,Round 5,GT,KKR,Bangalore,2025-09-28
